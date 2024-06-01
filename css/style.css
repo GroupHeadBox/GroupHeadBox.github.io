@@ -1959,12 +1959,12 @@ ul.disc.disc li:before {
 #kenburnsSliderContainer .vegas-overlay {
     outline: none;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1000px) {
     .kenburns-inner .caption h6 {
         font-size: 12px;
     }
     .kenburns-inner .caption h1 {
-        font-size: 60px;
+        font-size: 42px;
     }
 }
 
